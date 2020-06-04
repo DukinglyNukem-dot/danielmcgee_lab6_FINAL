@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\bin\Debug\BlackJackTesting.exe.config
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\bin\Debug\BlackJackTesting.exe
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\bin\Debug\BlackJackTesting.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\obj\Debug\BlackJackTesting.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\obj\Debug\BlackJackTesting.exe
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\obj\Debug\BlackJackTesting.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\bin\Debug\CardClasses.dll
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\bin\Debug\CardClasses.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\obj\Debug\BlackJackTesting.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\BlackJackTesting\obj\Debug\BlackJackTesting.csproj.CopyComplete

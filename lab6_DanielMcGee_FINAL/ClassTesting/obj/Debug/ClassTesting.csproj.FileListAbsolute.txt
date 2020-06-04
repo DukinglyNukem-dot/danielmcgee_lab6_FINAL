@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\bin\Debug\ClassTesting.exe.config
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\bin\Debug\ClassTesting.exe
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\bin\Debug\ClassTesting.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\bin\Debug\CardClasses.dll
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\bin\Debug\CardClasses.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\obj\Debug\ClassTesting.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\obj\Debug\ClassTesting.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\obj\Debug\ClassTesting.csproj.CopyComplete
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\obj\Debug\ClassTesting.exe
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_DanielMcGee_FINAL\ClassTesting\obj\Debug\ClassTesting.pdb
