@@ -9,7 +9,7 @@ namespace ClassTesting
 {
             class TestingClass
             {
-                        static void Main(string[] args)
+                        public static void HandClassTesting()
                         {
                                     Console.WriteLine("TESTING THE HAND CLASS.");
                                     Deck d = new Deck();
@@ -61,5 +61,12 @@ namespace ClassTesting
                                     }
                                     Console.WriteLine("TESTING COMPLETE.");
                         }
+
+                        static void Main(string[] args)
+                        {
+                                    HandClassTesting();
+                        }
+
             }
+
 }

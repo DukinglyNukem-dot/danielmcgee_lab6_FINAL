@@ -34,7 +34,7 @@ namespace CardClasses
                                                             else
                                                                         score += c.Value;
                                                 }
-                                                if (HasAce)
+                                                if (HasAce && score <= 11)
                                                             score += 10;
                                                 return score;
                                     }
